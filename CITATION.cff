@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this code."
+type: software
+title: "Dense-to-Sparse Topological Distillation for Minutiae-Label-Free Contactless Fingerprint Matching"
+license: MIT
+authors:
+  - family-names: Xu
+    given-names: Houpu
+  - family-names: Jia
+    given-names: Yuwei
+  - family-names: Cui
+    given-names: Zhe
+  - family-names: Dong
+    given-names: Yuan
